@@ -8,3 +8,6 @@ https://jsfiddle.net/GCassay/qnhsuwmt/
 
 ###Serie fibonacci
 https://jsfiddle.net/GCassay/thmj2eft/1/
+
+###Par o Impar
+https://jsfiddle.net/GCassay/kcm8apzf/
