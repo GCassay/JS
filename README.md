@@ -7,4 +7,4 @@ https://jsfiddle.net/GCassay/7bozbdoj/
 https://jsfiddle.net/GCassay/qnhsuwmt/
 
 ###Serie fibonacci
-https://jsfiddle.net/GCassay/thmj2eft/
+https://jsfiddle.net/GCassay/thmj2eft/1/
