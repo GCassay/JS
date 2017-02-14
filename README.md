@@ -11,3 +11,6 @@ https://jsfiddle.net/GCassay/thmj2eft/1/
 
 ###Par o Impar
 https://jsfiddle.net/GCassay/kcm8apzf/
+
+###Generar arreglo
+https://jsfiddle.net/GCassay/mhLaes50/
