@@ -23,3 +23,6 @@ https://jsfiddle.net/GCassay/yL35etjz/
 
 ###DIV Height & Width
 https://jsfiddle.net/GCassay/7eLLbL1h/
+
+###Cuadritos del mal
+https://jsfiddle.net/GCassay/6oc9rzdn/
