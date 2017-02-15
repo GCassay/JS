@@ -17,3 +17,6 @@ https://jsfiddle.net/GCassay/mhLaes50/
 
 ###Palíndromo
 https://jsfiddle.net/GCassay/kj5rpt4p/
+
+###Ordenar Array
+https://jsfiddle.net/GCassay/yL35etjz/
