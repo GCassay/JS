@@ -14,3 +14,6 @@ https://jsfiddle.net/GCassay/kcm8apzf/
 
 ###Generar arreglo
 https://jsfiddle.net/GCassay/mhLaes50/
+
+###Palíndromo
+https://jsfiddle.net/GCassay/kj5rpt4p/
