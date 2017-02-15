@@ -26,3 +26,6 @@ https://jsfiddle.net/GCassay/7eLLbL1h/
 
 ###Cuadritos del mal
 https://jsfiddle.net/GCassay/6oc9rzdn/
+
+###Función Cuadritos
+https://jsfiddle.net/GCassay/tgnuxo0s/
