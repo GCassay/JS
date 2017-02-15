@@ -29,3 +29,6 @@ https://jsfiddle.net/GCassay/6oc9rzdn/
 
 ###Función Cuadritos
 https://jsfiddle.net/GCassay/tgnuxo0s/
+
+###Funception
+https://jsfiddle.net/GCassay/p5rzr1n0/
