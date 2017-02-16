@@ -35,3 +35,6 @@ https://jsfiddle.net/GCassay/p5rzr1n0/
 
 ###Div screen size
 https://jsfiddle.net/GCassay/c8e4v9ph/
+
+###Div click size
+https://jsfiddle.net/GCassay/940w108p/
