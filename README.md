@@ -38,3 +38,6 @@ https://jsfiddle.net/GCassay/c8e4v9ph/
 
 ###Div click size
 https://jsfiddle.net/GCassay/940w108p/
+
+###Border Box
+https://jsfiddle.net/GCassay/7Lbdcc16/
