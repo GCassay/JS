@@ -44,3 +44,6 @@ https://jsfiddle.net/GCassay/7Lbdcc16/
 
 ###Create/Delete Button
 https://jsfiddle.net/GCassay/ohhf9wv0/
+
+###Color Selector
+https://jsfiddle.net/GCassay/69kkgc0c/
