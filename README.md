@@ -49,4 +49,5 @@ https://jsfiddle.net/GCassay/ohhf9wv0/
 https://jsfiddle.net/GCassay/69kkgc0c/
 
 ###Change BG Color
-https://jsfiddle.net/GCassay/m4zcd3q1/
+CSS: https://jsfiddle.net/GCassay/m4zcd3q1/
+setInterval: https://jsfiddle.net/GCassay/xnz0vejd/
