@@ -48,7 +48,8 @@ https://jsfiddle.net/GCassay/ohhf9wv0/
 ###Color Selector
 https://jsfiddle.net/GCassay/69kkgc0c/
 
-###Change BG Color
-CSS: https://jsfiddle.net/GCassay/m4zcd3q1/
+###Fade BG Color
+https://jsfiddle.net/GCassay/m4zcd3q1/
 
+###Slide BG Color
 setInterval: https://jsfiddle.net/GCassay/xnz0vejd/
