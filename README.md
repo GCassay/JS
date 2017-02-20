@@ -54,4 +54,4 @@ https://jsfiddle.net/GCassay/m4zcd3q1/
 ###Slide BG Color
 setInterval: https://jsfiddle.net/GCassay/yt8te19t/
 
-class Change [weird]: https://jsfiddle.net/GCassay/3n3aw952/
+class Change: https://jsfiddle.net/GCassay/2Lc2euq3/
