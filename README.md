@@ -60,3 +60,5 @@ class Change: https://jsfiddle.net/GCassay/2Lc2euq3/
 ver.1 https://jsfiddle.net/GCassay/w9h4tm3c/
 
 ver.2 https://jsfiddle.net/GCassay/v2psktn6/
+
+ver.3 https://jsfiddle.net/GCassay/a81ddws1/
