@@ -57,4 +57,6 @@ setInterval: https://jsfiddle.net/GCassay/yt8te19t/
 class Change: https://jsfiddle.net/GCassay/2Lc2euq3/
 
 ###Rainbow Slider
-https://jsfiddle.net/GCassay/w9h4tm3c/
+ver.1 https://jsfiddle.net/GCassay/w9h4tm3c/
+
+ver.2 https://jsfiddle.net/GCassay/v2psktn6/
