@@ -65,3 +65,6 @@ ver.3 https://jsfiddle.net/GCassay/a81ddws1/
 
 ###Random Rainbow
 https://jsfiddle.net/GCassay/jd912hfz/
+
+###Random Rainbow w/o Repeat
+https://jsfiddle.net/GCassay/5x76aoob/
