@@ -74,3 +74,6 @@ https://jsfiddle.net/GCassay/0xbuzyvu/
 
 ###Form Profile Card
 https://jsfiddle.net/GCassay/qfkvto9c/
+
+###Color Picks Palette
+https://jsfiddle.net/GCassay/rnL049sa/
