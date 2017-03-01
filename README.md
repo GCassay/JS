@@ -77,3 +77,6 @@ https://jsfiddle.net/GCassay/qfkvto9c/
 
 ###Color Picks Palette
 https://jsfiddle.net/GCassay/rnL049sa/
+
+###Gender Selector
+https://jsfiddle.net/GCassay/d597u9tv/
