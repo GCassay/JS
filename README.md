@@ -80,3 +80,6 @@ https://jsfiddle.net/GCassay/rnL049sa/
 
 ###Gender Selector
 https://jsfiddle.net/GCassay/5ffdttk9/
+
+###Item Shop
+https://jsfiddle.net/GCassay/4rtzevqz/
